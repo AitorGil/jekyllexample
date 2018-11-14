@@ -1,4 +1,4 @@
 - name: INICIO
-  link: /
+  link: {{ site.url }}/
 - name: SOBRE MÍ
-  link: /about.html
+  link: {{ site.url }}/about.html
