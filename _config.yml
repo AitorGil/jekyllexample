@@ -3,3 +3,4 @@ email: aitorgilcallejo@gmail.com
 description: Blog de ejemplo
 url: https://aitorgil.github.io/jekyllexample.github.io/
 github_username: AitorGil
+permalink: /:categories/:title/
