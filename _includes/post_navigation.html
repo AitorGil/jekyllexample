@@ -2,7 +2,7 @@
     <ul>
         {% for post in site.posts %}
         <li>
-            <a href="{{ post.url }}" {% if page.url==post.url %} class="highlight" {% endif %}> {{ post.title }}</a>
+            <a href="jekyllexample/{{ post.url }}" {% if page.url==post.url %} class="highlight" {% endif %}> {{ post.title }}</a>
         </li>
         {% endfor %}
     </ul>
