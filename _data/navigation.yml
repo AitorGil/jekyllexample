@@ -1,4 +1,4 @@
 - name: INICIO
-  link: https://aitorgil.github.io/jekyllexample.github.io/
+  link: /
 - name: SOBRE MÍ
-  link: https://aitorgil.github.io/jekyllexample.github.io/about.html
+  link: /about.html
