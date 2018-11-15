@@ -1,3 +1,4 @@
 name: Aitor Gil Callejo
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+baseurl: /jekyllexample
+url: https://aitorgil.github.io
