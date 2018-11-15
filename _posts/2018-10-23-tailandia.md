@@ -1,5 +1,5 @@
 ---
-title: tailandia
+title: Tailandia
 description: Conociendo otras culturas
 layout: post
 author: Aitor GC
