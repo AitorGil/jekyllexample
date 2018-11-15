@@ -1,6 +1,6 @@
 ---
 layout: wrapper
-title: SOBRE EL AUTOR
+title: about
 description: Información sobre el creador
 ---
 
